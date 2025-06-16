@@ -1,6 +1,8 @@
-**Project Summary:** Enhanced a Stateful API in Java by customizing a Spring Framework application to improve user interaction and functionality for an inventory management system.
+# Project Summary: 
+Enhanced a Stateful API in Java by customizing a Spring Framework application to improve user interaction and functionality for an inventory management system.
 
-**Implementation Steps:** The goal of this project was to enhance an existing API. While the basic HTML and Java backend were in place, I needed to add functionality for the inventory manager to operate effectively.
+## Implementation Steps: 
+The goal of this project was to enhance an existing API. While the basic HTML and Java backend were in place, I needed to add functionality for the inventory manager to operate effectively.
 
 I successfully enhanced the Spring application by adding a sample inventory with five parts and five products, ensuring it didn’t overwrite any existing database data. The sample inventory is stored in a set to prevent duplicates.
 
@@ -12,7 +14,7 @@ I implemented validation to display error messages for low inventory when adding
 
 In the end, the computer shop now features an inventory management system that enables users to add, modify, and delete relevant persistent data.
 
-**Detailed Change Log**
+## Detailed Change Log
 
 ### Part C: Customize the HTML user interface for your customer’s application
 
