@@ -14,7 +14,7 @@ I implemented validation to display error messages for low inventory when adding
 
 In the end, the computer shop now features an inventory management system that enables users to add, modify, and delete relevant persistent data.
 
-## Detailed Change Log
+## Detailed Change Log:
 
 ### Part C: Customize the HTML user interface for your customer’s application
 
